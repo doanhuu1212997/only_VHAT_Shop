@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/only_VHAT_Shop/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/only_VHAT_Shop/static/js/main.c56abad8.chunk.js",
+    "main.js.map": "/only_VHAT_Shop/static/js/main.c56abad8.chunk.js.map",
+    "runtime-main.js": "/only_VHAT_Shop/static/js/runtime-main.ab2fdace.js",
+    "runtime-main.js.map": "/only_VHAT_Shop/static/js/runtime-main.ab2fdace.js.map",
+    "static/js/2.91c37676.chunk.js": "/only_VHAT_Shop/static/js/2.91c37676.chunk.js",
+    "static/js/2.91c37676.chunk.js.map": "/only_VHAT_Shop/static/js/2.91c37676.chunk.js.map",
+    "static/js/3.6ebbe3cc.chunk.js": "/only_VHAT_Shop/static/js/3.6ebbe3cc.chunk.js",
+    "static/js/3.6ebbe3cc.chunk.js.map": "/only_VHAT_Shop/static/js/3.6ebbe3cc.chunk.js.map",
+    "index.html": "/only_VHAT_Shop/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/only_VHAT_Shop/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.91c37676.chunk.js.LICENSE.txt": "/only_VHAT_Shop/static/js/2.91c37676.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab2fdace.js",
+    "static/js/2.91c37676.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c56abad8.chunk.js"
+  ]
+}
